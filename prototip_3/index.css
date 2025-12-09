@@ -3,7 +3,8 @@ body {
     width: 1440px;
     height: 1204px;
     padding: 16px;
-    background-color: rgb(227, 227, 227);
+    background-color: rgb(255, 255, 255);
+    color: #252525;
 }
 
 .contenedor {
@@ -20,6 +21,9 @@ p {
     font-size: 26px;
     width: 526px;
     height: 108px;
+    align-content: center;
+    margin-top: 60px;
+    font-family: "Montserrat";
 }
 
 img {
@@ -41,4 +45,7 @@ button {
     width: 157px;
     height: 50px;
     border-color: #252525;
+    margin-bottom: 130px;
+    font-size: 16px;
+    font-family: "Montserrat";
 }
